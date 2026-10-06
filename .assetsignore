@@ -1,0 +1,4 @@
+# Cloudflare Workers static assets
+.git/
+.dev.vars
+backend/
